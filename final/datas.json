@@ -1,0 +1,51 @@
+﻿[
+  {
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "cardDetails": {
+      "cardNumber": "4567 8901 2345 6789",
+      "expirationDate": "08/27",
+      "CVC": "789"
+    },
+    "pinCode": "5678",
+    "transactionHistory": [
+      {
+        "transactionDate": "2024-02-10",
+        "transactionType": "deposit",
+        "amountGEL": 300,
+        "amountUSD": 90,
+        "amountEUR": 75
+      },
+      {
+        "transactionDate": "2024-02-09",
+        "transactionType": "transfer",
+        "amountGEL": 200,
+        "amountUSD": 60,
+        "amountEUR": 50
+      },
+      {
+        "transactionDate": "2024-02-08",
+        "transactionType": "purchase",
+        "amountGEL": 180,
+        "amountUSD": 55,
+        "amountEUR": 45
+      },
+      {
+        "transactionDate": "2024-02-07",
+        "transactionType": "deposit",
+        "amountGEL": 280,
+        "amountUSD": 85,
+        "amountEUR": 70
+      },
+      {
+        "transactionDate": "2024-02-06",
+        "transactionType": "withdrawal",
+        "amountGEL": 220,
+        "amountUSD": 65,
+        "amountEUR": 55
+      }
+    ]
+  }
+
+
+]

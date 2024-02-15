@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyEYoAml0kvLBtSH2F31GjQ/6coPNy4fW7s8cDqOrt36ArioCZVzSyjMOJ89btYykHrFjmb2qtF77fe0jn61Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anano\\source\\repos\\final\\final\\final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anano\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Anano\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
